@@ -18,5 +18,5 @@ HadesC2 is a command-and-control (C2) interface designed for managing and intera
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/HadesC2.git
+   git clone https://github.com/hackergeorge/HadesC2.git
    cd HadesC2
