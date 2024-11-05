@@ -9,7 +9,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "hadesc2=hades_c2:main",  # Assuming your main file is named hades_c2.py and main() is the entry function
+            "hadesc2=hades_c2:main",  
         ],
     },
     description="HadesC2 Command and Control Interface for Warshipping Devices",
