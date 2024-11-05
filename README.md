@@ -2,8 +2,6 @@
 
 HadesC2 is a command-and-control (C2) interface designed for managing and interacting with a warshipping device. Built with Python, HadesC2 provides a secure and streamlined command center with user authentication, role-based access, and device management capabilities.
 
-![HadesC2 ASCII Skull](https://your-image-url.com) *(optional: include an image of your ASCII art here)*
-
 ## Features
 
 - **Admin Interface**: Create, edit, and manage users, including viewing logs.
